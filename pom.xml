@@ -12,7 +12,7 @@
 	<groupId>com.bno</groupId>
 	<artifactId>bookstore</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>bookstore</name>g
+	<name>bookstore</name>
 	<description>Project Srping boot and Angular 10</description>
 	<properties>
 		<java.version>11</java.version>
